@@ -39,4 +39,4 @@ Please document any issue within the Issues tab o in the GitHub repository.
 
 **Who maintains and contributes to the project**
 
-This is a public project, anyone is welcome to view and use this project.
+This is a public project, anyone is welcome to view and use this project
